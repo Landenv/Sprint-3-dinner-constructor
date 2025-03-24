@@ -1,2 +1,2 @@
-# dinner-constructor
-Precode for sprint 3 dinner constructor
+# **Спринт №3**: Финальное задание - *dinner-constructor*.
+Автор работы - **Vitaliy Dantsov**.
