@@ -39,8 +39,7 @@ public class DinnerConstructor {
 
     // Список доступных блюд
     public ArrayList<String> getAvailableTypes() {
-        ArrayList<String> types = new ArrayList<>(dishes.keySet());
-        return types;
+        return new ArrayList<>(dishes.keySet()); // Спасибо за совет
     }
 
     //Метод вызова подсказки для пользователя о существующих типах блюд
